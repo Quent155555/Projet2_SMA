@@ -6,8 +6,6 @@ from Joueur import *
 
 
 #O = Coopération et 1 = D
-
-
 class Manche :
     def __init__(self, id, p1, p2) :  
         self.id = id
@@ -37,11 +35,11 @@ class Manche :
         #Pour que chaque joueur puisse avoir accès aux précédents coups
         Z.historique_choix.append(choix_Z)
         Z.historique_adverse.append(choix_Q)
+
         Q.historique_choix.append(choix_Q)
         Q.historique_adverse.append(choix_Z)
 
         self.finit = True
-
 
 class Partie :
     def __init__(self, id, nbmanche, p1, p2) :
@@ -51,8 +49,24 @@ class Partie :
         self.p2 = p2
 
     def rencontre(self):
+        self.p1.reinitialiser()
+        self.p2.reinitialiser()
         for i in range(self.nbmanche) :
             manche = Manche(i, self.p1, self.p2)
             manche.jouer()
 
-    
+
+class Tournoi :
+    def __init__(self, joueurs, nbpartie, nbmanche) :
+        self.joueurs = joueurs
+        self.nbmanche = nbmanche
+        self.nbpartie = nbpartie
+
+    def debut_tournoi(self) :
+        n = len(self.joueurs)
+        for i in range(n-1) :
+            for j in range(i, n) :
+                if i != j :
+                    for m in range(self.nbpartie):
+                        p = Partie(m, self.nbmanche, self.joueurs[i], self.joueurs[j])
+                        p.rencontre()

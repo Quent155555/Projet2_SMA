@@ -1,5 +1,5 @@
 L'idée de l'Architecture initial :
--une classe joueur qui contient un dictionnaire de préférence
+-une classe joueur qui contient un dictionnaire de préférence ainsi qu'un
 -une classe manche qui contient la matrice du dilemme et s'occupe du déroulé d'une manche
 -un tournoi est donc une suite de partie, à chaque fin de partie les joueurs sont informés du résultat et peuvent donc modifier leurs choix pour la partie suivante
 
@@ -7,4 +7,36 @@ Apres avoir reussi a faire tourner une manche sur deux joueurs qui ont une strat
 
 Création d'une partie qui consiste en cinq manche, une partie = une instance de classe, même test, score toujours cohérent
 
-Toutes les stratégies ont été implémenté, elles semblent fonctionnées correctement en 1v1 avec une partie de 200 manches
+Toutes les stratégies ont été implémenté, elles semblent fonctionnées correctement en 1v1 avec une partie de 200 manches par ex ALL-D contre TESTER = 200 v 200, certaine sont plus dur à appréhender que d'autres (notamment random)
+
+Le trournoi est donc implémenté, à mon avis le TFT devrait gagner, vu qu'elle minimise les pertes face au stratégie moins coopératives, et maximise face au stratégies coopératives.
+Cependant, comme les stratégies ne s'affrontent pas elle même, il est possible qu'une de ses variantes (TESTER ou JOSS) l'emporte.
+
+Ainsi avec 5 rencontres contre chaque adversaire, 200 manches par rencontre on obtient les scores suivants :(la matrice de points que le cours)
+
+    joueur :  ZeroTwo , strat : TFT score :  9059
+    joueur :  Quentin , strat : JOSS score :  8745
+    joueur :  Lucas , strat : TESTER score :  9017
+    joueur :  Yassine , strat : RANDOM score :  8349
+    joueur :  ds , strat : ALL-D score :  9542
+
+A ce moment l'architecture ressemble plutot à :
+-une classe joueur qui possede 2 historiques des choix qu'on fait chaque joueurs durant la partie (doit donc être réinitialiser à chaque partie) ainsi qu'une méthode qui permet de choisir un choix
+-un fichier manche.py qui contient 3 classes (pas très propre mais plus logique afin de garder tout ce qui est relatif à la gestion d'un tournoi dans un mm fichier), une classe manche qui se concentre sur un 1v1 en attribuant les scores selon  une matrice de dilemme et le choix des joueurs. Une classe Partie qui lance un nombre m de manche et qui réinitialise les joueurs. Une classe tournoi qui organis les parties entre tous les joueurs
+-un main pour lancer tout ça
+
+Je ne saurais dire si les scores obtenus sont logique et qu'ils ne démontrent aucun problème dans les stratégies (leurs implémentation surtout). Pour l'instant TESTER est la stratégie la moins évidentes à lire et à comprendre
+
+[IDEE]
+-Peut-être que le tournoi devrait reposer sur le nombre de victoire à voir, en l'état bien que ALL-C est déja créer, elle ne changerait pas le score du tournoi puisque ALL-D gagnera toujours
+-Essayer les stratégies contre elle même pour montrer que ALL-D à des problèmes, une stratégies égoïstes ne marchent que contre des stratégies naïves ou coopératives pas contre d'autres stratégies égoïstes.
+
+Pb de ALL-C auquel je viens de penser, dans le meilleur des cas elle fait une égalité et ne gagne jamais donc pas forcément pertinent de l'inclure dans un tournoi puisqu'elle ne peut pas gagner, elle ne sert qu'a renforcer les stratégies qui profiterais de sa gentillesse
+
+[IDEE]
+Idee de nouvelle stratégie :
+-une "farceur" (ou jsp) qui renvoie l'oppose du dernier coup adverse (pourrait être le juste milieu entre ALL-C et ALL-D)
+-une "superstitieuse" suit toujours le même pattern genre C C et D D par exemple
+
+[IDEE]
+Il serait peut être intéressant de voir si un tournoi de 200 parties de 5 manches change le classement
