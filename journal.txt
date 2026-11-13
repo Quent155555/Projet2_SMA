@@ -13,6 +13,8 @@ Le trournoi est donc implémenté, à mon avis le TFT devrait gagner, vu qu'elle
 Cependant, comme les stratégies ne s'affrontent pas elle même, il est possible qu'une de ses variantes (TESTER ou JOSS) l'emporte.
 
 Ainsi avec 5 rencontres contre chaque adversaire, 200 manches par rencontre on obtient les scores suivants :(la matrice de points que le cours)
+/!\ Je fais un score total sur tout le tournoi
+seed = 123456789
 
     joueur :  ZeroTwo , strat : TFT score :  9059
     joueur :  Quentin , strat : JOSS score :  8745
