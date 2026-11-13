@@ -1,0 +1,10 @@
+L'idée de l'Architecture initial :
+-une classe joueur qui contient un dictionnaire de préférence
+-une classe manche qui contient la matrice du dilemme et s'occupe du déroulé d'une manche
+-un tournoi est donc une suite de partie, à chaque fin de partie les joueurs sont informés du résultat et peuvent donc modifier leurs choix pour la partie suivante
+
+Apres avoir reussi a faire tourner une manche sur deux joueurs qui ont une stratégie fixe toujours c ou toujours d (qui sont renommer en 1 et 0 dans tout le code), le score de chaque joueur est cohérent
+
+Création d'une partie qui consiste en cinq manche, une partie = une instance de classe, même test, score toujours cohérent
+
+Toutes les stratégies ont été implémenté, elles semblent fonctionnées correctement en 1v1 avec une partie de 200 manches
