@@ -23,47 +23,23 @@ def print_classement(joueurs):
     return classement
 
 #Pour le tournoi avec les 5 strats du cours
-def tournoi_classique(matrice):
+def tournoi_classique(matrice, nvstrat, allc):
     ZeroTwo = Joueur("ZeroTwo", "TFT")
     Quentin = Joueur("Quentin", "JOSS")
     Lucas = Joueur("Lucas", "TESTER")
     Yassine = Joueur("Yassine", "RANDOM")
     ds1 = Joueur("ds1", "ALL-D")
-
     joueurs = [ZeroTwo, Quentin, Lucas, Yassine, ds1]
-    t = Tournoi(joueurs, 5, 200)
-    t.debut_tournoi(matrice)
-    classement = print_classement(joueurs)
 
-#avec les nouvelles strats
-def tournoi_classique_nvstrats(matrice):
-    ZeroTwo = Joueur("ZeroTwo", "TFT")
-    Quentin = Joueur("Quentin", "JOSS")
-    Lucas = Joueur("Lucas", "TESTER")
-    Yassine = Joueur("Yassine", "RANDOM")
-    ds1 = Joueur("ds1", "ALL-D")
-    jester = Joueur("Jester", "FARCEUR")
-    superstition = Joueur("Superstition", "PATTERN")
-    ds2 = Joueur("ds2", "ALL-D2")
-
-    joueurs = [ZeroTwo, Quentin, Lucas, Yassine, ds1, jester, superstition, ds2]
-    t = Tournoi(joueurs, 5, 200)
-    t.debut_tournoi(matrice)
-    classement = print_classement(joueurs)
-
-#pareil que tournoi_classique_nvstrats() mais avec pigeon
-def tournoi_classique_nvstrats_allc(matrice):
-    ZeroTwo = Joueur("ZeroTwo", "TFT")
-    Quentin = Joueur("Quentin", "JOSS")
-    Lucas = Joueur("Lucas", "TESTER")
-    Yassine = Joueur("Yassine", "RANDOM")
-    ds1 = Joueur("ds1", "ALL-D")
-    jester = Joueur("Jester", "FARCEUR")
-    superstition = Joueur("Superstition", "PATTERN")
-    ds2 = Joueur("ds2", "ALL-D2")
-    pigeon = Joueur("pigeon", "ALL-C")
-
-    joueurs = [ZeroTwo, Quentin, Lucas, Yassine, ds1, jester, superstition, ds2, pigeon]
+    if nvstrat :
+        jester = Joueur("Jester", "FARCEUR")
+        superstition = Joueur("Superstition", "PATTERN")
+        ds2 = Joueur("ds2", "ALL-D2")
+        joueurs.extend([jester, superstition, ds2])
+    if allc :
+        pigeon = Joueur("pigeon", "ALL-C")
+        joueurs.append(pigeon)
+            
     t = Tournoi(joueurs, 5, 200)
     t.debut_tournoi(matrice)
     classement = print_classement(joueurs)
@@ -134,10 +110,12 @@ def main():
 
 
     while True :
-        double = input("Doubler les pops par stratégies, donc 2 ALL-D etc ? y pour oui, n'importe quoi pour non\n")
+        double = input("Doubler les pops par stratégies, donc 2 ALL-D etc ? y pour oui q pour quitter, n'importe quoi pour non\n")
         match double :
             case "y" :
                 double = True
+            case "q" :
+                return 0
             case _ :
                 double = False
         tournoi = input("Quel tournoi lancer ? (h pour voir les tournoi)\n")
@@ -148,17 +126,22 @@ def main():
                 print("3 : le tournoi classique avec les nouvelles stratégies (avec ALL-C)")
                 print("4 : lance 10 tournois avec 4 mutations par generation et toutes les stratégies")
                 print("5 : lance 25 tournois avec 1 mutaution par generation et toutes les stratégies")
+                print("6 : mon propre tournoi de selection (nb de generation et de mutation)")
                 print("q : pour quitter le programme")
             case "1" :
-                tournoi_classique(matrice)
+                tournoi_classique(matrice, False, False)
             case "2" :
-                tournoi_classique_nvstrats(matrice)
+                tournoi_classique(matrice, True, False)
             case "3" :
-                tournoi_classique_nvstrats_allc(matrice)
+                tournoi_classique(matrice, True,True)
             case "4" :
                 tournoi_selection(matrice, 10, 4, double)
             case "5" :
                 tournoi_selection(matrice, 25, 1, double)
+            case "6" :
+                nbgeneration = int(input("Combien de tournois ? (de generation)\n"))
+                nbmutation = int(input("Combien de mutation ? (si x alors les x derniers copieront les strtas des x premiers)\n"))
+                tournoi_selection(matrice, nbgeneration, nbmutation, double)
             case "q" :
                 return 0
             case _ :

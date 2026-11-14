@@ -120,6 +120,6 @@ Le résultat est le même pour 1 joueurs par stratégies
 Changement de matrice :
 Pour le changement de matrice, on va recopier la chasse au cerfs et comparer les resultats sur un tournoi
 Je pense que cette nouvelle matrice encourage grandement la coopération en la récompensant et en récompensant beaucoup moins les stratégies égoïste, donc normalement TFT devrait gagner mais ALL-D devrait être éliminer dans les premiers cette fois-ci
-ALL-C gagne 
+ALL-C gagne donc mon hypothèse est donc plus ou moins valider car TFT fais égalité avec ALL-C
 
-La gestion du main a été complétement revu afin de simplifier l'usage
+La gestion du main a été complétement revu afin de simplifier l'usage, il pourrait être encore améliorer, notamment en permettant de de choisir quelles stratégies mettre dans le tournoi, le nombre de joueur peut-être pour plus tard
