@@ -10,7 +10,7 @@ class Joueur :
         self.choix = None
         self.nom = nom
         
-        self.TFT = False
+        self.mode_TFT = False
 
         
         self.strat = strat
@@ -55,7 +55,7 @@ class Joueur :
                 nouveau_choix = 1#D
             else :
                 n = len(hist_adv)
-                if hist_adv[n-1] != 1 and not self.TFT:
+                if hist_adv[n-1] != 1 and not self.mode_TFT:
                     if hist[n-1] == 1 :
                         nouveau_choix = 0
                     else :
@@ -64,7 +64,7 @@ class Joueur :
                         else :
                             nouveau_choix = 0
                 else :#Si au coup precedent, l'adversaire a choisit de D, donc de riposter, alors on devient TIT-FOT-TAT
-                    self.TFT = True
+                    self.mode_TFT = True
                     nouveau_choix = hist_adv[n-1]
 
         #JOSS
@@ -78,7 +78,35 @@ class Joueur :
                 mutation = R.randint(1,10)
                 if mutation == 1 :
                     nouveau_choix = 1
-        
+
+        ################             Nouvelles strats               ##########################
+
+        #FARCEUR
+        #Le but est de choisir l'oppose du choix de l'adversaire sur le dernier coup
+        elif (strat == "FARCEUR") :
+            if hist_adv == [] :
+                nouveau_choix = 1
+            else :
+                n = len(hist_adv)
+                nouveau_choix = 1 - hist_adv[n-1]
+
+        #PATTERN
+        #Ici on effectue C,C,D,D et on répète
+        elif (strat == "PATTERN") :
+            n = len(hist)
+            patt = n%4
+            if patt == 0 or patt == 1 :
+                nouveau_choix = 0
+            else :
+                nouveau_choix = 1
+
+        #ALL-D2
+        elif (strat == "ALL-D2") :
+            if hist == []:
+                nouveau_choix = 0#C
+            else :
+                nouveau_choix = 1#D
+
         #ALLC
         else :
             nouveau_choix = 0

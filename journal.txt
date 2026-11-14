@@ -22,6 +22,8 @@ seed = 123456789
     joueur :  Yassine , strat : RANDOM score :  8349
     joueur :  ds , strat : ALL-D score :  9542
 
+classement : ALL-D > TFT > TESTER > JOSS > RANDOM
+
 A ce moment l'architecture ressemble plutot à :
 -une classe joueur qui possede 2 historiques des choix qu'on fait chaque joueurs durant la partie (doit donc être réinitialiser à chaque partie) ainsi qu'une méthode qui permet de choisir un choix
 -un fichier manche.py qui contient 3 classes (pas très propre mais plus logique afin de garder tout ce qui est relatif à la gestion d'un tournoi dans un mm fichier), une classe manche qui se concentre sur un 1v1 en attribuant les scores selon  une matrice de dilemme et le choix des joueurs. Une classe Partie qui lance un nombre m de manche et qui réinitialise les joueurs. Une classe tournoi qui organis les parties entre tous les joueurs
@@ -42,3 +44,63 @@ Idee de nouvelle stratégie :
 
 [IDEE]
 Il serait peut être intéressant de voir si un tournoi de 200 parties de 5 manches change le classement
+
+Apres quelques reflexion (dans le transport), il semble que le tournoi par victoire n'aurait pas de sens puisque ALL-D ne peut pas perdre, dans le pire des cas il fait une égalité et que TFT face à ses variantes tombe dans un cercle vicieux (donc font égalité où ont des scores très proches).
+
+Les resultats obtenus plus haut semble cohérent, le gain moyen semble naivement être d'environ de 2 et des poussières par tour et chaque joueur dispute 4*5*200 partie = 4000 donc 4000*2 = 8000, comme il n'y a pas de stratégie vraiment naïve et que TESTER et TFT (pareil pour TFT et JOSS) tombe dans un cercle vicieu où chacun trahit quand l'autre coopère on obtient un gain de 2.5 par tour. Ce qui explique pourquoi aucune stratégie ne se démarque vraiment à part la vicieuse ALL-D
+
+La différence semble être que ALL-D profite de RANDOM et que TFT a beaucoup plus de mal à le faire. Mon impression était fausse dans cette configuration, peut être tester d'autres configs (plein de ALL-D, changement des points, nouvelle stratégie etc)
+
+[IDEE](pomper sur Yassine)
+Faire des logs peut-être ?
+
+FARCEUR est la stratégie qui a le moins d'avenir à mon avis, puisque fasse à ALL-D elle va donner beaucoup de point et ne rien gagner lors de ce match.
+Elle pourrait peut être améliorer avec un compteur de trahison adverse et réagir si il y a trop de trahison
+
+PATTERN renvoie C,C,D,D en boucle ce qui fait face à ALL-D une moyenne de 0+0+2+2 = 4 pts donc 1 pt par coup, et face à TFT 0+3+5+2 = 10 donc 2.5pt en moyenne par coup ce qui est identique à TFT face à TFT, elle ne devrait donc pas gagner non plus
+
+[IDEE] ALL-D2 qui commence par C et puis ALL-D pourrait être intéressant
+
+Resultat du tournoi avec une pop elargie : (sans ALL-C) et seed = 123456789
+
+joueur :  ZeroTwo , strat : TFT score :  16044
+joueur :  Quentin , strat : JOSS score :  15960
+joueur :  Lucas , strat : TESTER score :  16049
+joueur :  Yassine , strat : RANDOM score :  14396
+joueur :  ds , strat : ALL-D score :  20045
+joueur :  Jester , strat : FARCEUR score :  12428
+joueur :  Superstition , strat : PATTERN score :  14398
+joueur :  ds2 , strat : ALL-D2 score :  19951
+Classement :
+1   ALL-D : 20045
+2   ALL-D2 : 19951
+3   TESTER : 16049
+4   TFT : 16044
+5   JOSS : 15960
+6   PATTERN : 14398
+7   RANDOM : 14396
+8   FARCEUR : 12428
+
+Tournoi avec ALL-C et seed = 123456789 :
+
+joueur :  ZeroTwo , strat : TFT score :  19044
+joueur :  Quentin , strat : JOSS score :  19170
+joueur :  Lucas , strat : TESTER score :  19058
+joueur :  Yassine , strat : RANDOM score :  18364
+joueur :  ds , strat : ALL-D score :  25039
+joueur :  Jester , strat : FARCEUR score :  17472
+joueur :  Superstition , strat : PATTERN score :  18371
+joueur :  pigeon , strat : ALL-C score :  11697
+joueur :  ds2 , strat : ALL-D2 score :  24932
+Classement :
+1   ALL-D : 25039
+2   ALL-D2 : 24932
+3   JOSS : 19170
+4   TESTER : 19058
+5   TFT : 19044
+6   PATTERN : 18371
+7   RANDOM : 18364
+8   FARCEUR : 17472
+9   ALL-C : 11697
+
+Le classement demeure sensiblement le même, je pense que ça peut s'expliquer par le fait que l'ajout de stratégie coopératives renforce ALL-D et que l'ajout de stratégie égoïste pénalise tout le monde au même point, donc pour que les résultats changent il faudrait changer soit les points, soit le tournoi
