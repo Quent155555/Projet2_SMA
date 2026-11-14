@@ -1,0 +1,1316 @@
+1ere fois avec 4 mutations par générations
+
+#########################################################################
+Debut du tournoi numero :  0
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  41087
+joueur :  Quentin , strat : JOSS score :  40288
+joueur :  Lucas , strat : TESTER score :  40150
+joueur :  Yassine , strat : RANDOM score :  39207
+joueur :  ds1 , strat : ALL-D score :  52072
+joueur :  Jester , strat : FARCEUR score :  37340
+joueur :  Superstition , strat : PATTERN score :  39173
+joueur :  pigeon , strat : ALL-C score :  26310
+joueur :  ds2 , strat : ALL-D2 score :  52001
+joueur :  ZeroTwo2 , strat : TFT score :  41015
+joueur :  Quentin2 , strat : JOSS score :  40210
+joueur :  Lucas2 , strat : TESTER score :  40130
+joueur :  Yassine2 , strat : RANDOM score :  39347
+joueur :  ds12 , strat : ALL-D score :  52108
+joueur :  Jester2 , strat : FARCEUR score :  37431
+joueur :  Superstition2 , strat : PATTERN score :  39161
+joueur :  pigeon2 , strat : ALL-C score :  26352
+joueur :  ds22 , strat : ALL-D2 score :  51863
+Classement :
+1   ALL-D : 52108
+2   ALL-D : 52072
+3   ALL-D2 : 52001
+4   ALL-D2 : 51863
+5   TFT : 41087
+6   TFT : 41015
+7   JOSS : 40288
+8   JOSS : 40210
+9   TESTER : 40150
+10   TESTER : 40130
+11   RANDOM : 39347
+12   RANDOM : 39207
+13   PATTERN : 39173
+14   PATTERN : 39161
+15   FARCEUR : 37431
+16   FARCEUR : 37340
+17   ALL-C : 26352
+18   ALL-C : 26310
+#########################################################################
+Debut du tournoi numero :  1
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  38058
+joueur :  Quentin , strat : JOSS score :  36555
+joueur :  Lucas , strat : TESTER score :  37101
+joueur :  Yassine , strat : RANDOM score :  30279
+joueur :  ds1 , strat : ALL-D score :  40180
+joueur :  Jester , strat : ALL-D2 score :  40031
+joueur :  Superstition , strat : PATTERN score :  30437
+joueur :  pigeon , strat : ALL-D score :  40018
+joueur :  ds2 , strat : ALL-D2 score :  40070
+joueur :  ZeroTwo2 , strat : TFT score :  38119
+joueur :  Quentin2 , strat : JOSS score :  36815
+joueur :  Lucas2 , strat : TESTER score :  37124
+joueur :  Yassine2 , strat : RANDOM score :  30128
+joueur :  ds12 , strat : ALL-D score :  40114
+joueur :  Jester2 , strat : ALL-D2 score :  39929
+joueur :  Superstition2 , strat : PATTERN score :  30287
+joueur :  pigeon2 , strat : ALL-D score :  40234
+joueur :  ds22 , strat : ALL-D2 score :  40079
+Classement :
+1   ALL-D : 40234
+2   ALL-D : 40180
+3   ALL-D : 40114
+4   ALL-D2 : 40079
+5   ALL-D2 : 40070
+6   ALL-D2 : 40031
+7   ALL-D : 40018
+8   ALL-D2 : 39929
+9   TFT : 38119
+10   TFT : 38058
+11   TESTER : 37124
+12   TESTER : 37101
+13   JOSS : 36815
+14   JOSS : 36555
+15   PATTERN : 30437
+16   PATTERN : 30287
+17   RANDOM : 30279
+18   RANDOM : 30128
+#########################################################################
+Debut du tournoi numero :  2
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  36052
+joueur :  Quentin , strat : JOSS score :  34273
+joueur :  Lucas , strat : TESTER score :  35161
+joueur :  Yassine , strat : ALL-D score :  34132
+joueur :  ds1 , strat : ALL-D score :  34135
+joueur :  Jester , strat : ALL-D2 score :  34037
+joueur :  Superstition , strat : ALL-D2 score :  34031
+joueur :  pigeon , strat : ALL-D score :  34132
+joueur :  ds2 , strat : ALL-D2 score :  34037
+joueur :  ZeroTwo2 , strat : TFT score :  36134
+joueur :  Quentin2 , strat : JOSS score :  34340
+joueur :  Lucas2 , strat : TESTER score :  35106
+joueur :  Yassine2 , strat : ALL-D score :  34135
+joueur :  ds12 , strat : ALL-D score :  34135
+joueur :  Jester2 , strat : ALL-D2 score :  34037
+joueur :  Superstition2 , strat : ALL-D score :  34129
+joueur :  pigeon2 , strat : ALL-D score :  34135
+joueur :  ds22 , strat : ALL-D2 score :  34040
+Classement :
+1   TFT : 36134
+2   TFT : 36052
+3   TESTER : 35161
+4   TESTER : 35106
+5   JOSS : 34340
+6   JOSS : 34273
+7   ALL-D : 34135
+8   ALL-D : 34135
+9   ALL-D : 34135
+10   ALL-D : 34135
+11   ALL-D : 34132
+12   ALL-D : 34132
+13   ALL-D : 34129
+14   ALL-D2 : 34040
+15   ALL-D2 : 34037
+16   ALL-D2 : 34037
+17   ALL-D2 : 34037
+18   ALL-D2 : 34031
+#########################################################################
+Debut du tournoi numero :  3
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  39145
+joueur :  Quentin , strat : JOSS score :  34562
+joueur :  Lucas , strat : TESTER score :  36030
+joueur :  Yassine , strat : ALL-D score :  34105
+joueur :  ds1 , strat : ALL-D score :  34105
+joueur :  Jester , strat : TESTER score :  36080
+joueur :  Superstition , strat : TFT score :  39105
+joueur :  pigeon , strat : ALL-D score :  34102
+joueur :  ds2 , strat : TESTER score :  36101
+joueur :  ZeroTwo2 , strat : TFT score :  39092
+joueur :  Quentin2 , strat : JOSS score :  34609
+joueur :  Lucas2 , strat : TESTER score :  36149
+joueur :  Yassine2 , strat : ALL-D score :  34099
+joueur :  ds12 , strat : ALL-D score :  34102
+joueur :  Jester2 , strat : TFT score :  39053
+joueur :  Superstition2 , strat : ALL-D score :  34102
+joueur :  pigeon2 , strat : ALL-D score :  34105
+joueur :  ds22 , strat : ALL-D2 score :  34067
+Classement :
+1   TFT : 39145
+2   TFT : 39105
+3   TFT : 39092
+4   TFT : 39053
+5   TESTER : 36149
+6   TESTER : 36101
+7   TESTER : 36080
+8   TESTER : 36030
+9   JOSS : 34609
+10   JOSS : 34562
+11   ALL-D : 34105
+12   ALL-D : 34105
+13   ALL-D : 34105
+14   ALL-D : 34102
+15   ALL-D : 34102
+16   ALL-D : 34102
+17   ALL-D : 34099
+18   ALL-D2 : 34067
+#########################################################################
+Debut du tournoi numero :  4
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  43127
+joueur :  Quentin , strat : JOSS score :  35043
+joueur :  Lucas , strat : TESTER score :  38091
+joueur :  Yassine , strat : ALL-D score :  34144
+joueur :  ds1 , strat : ALL-D score :  34141
+joueur :  Jester , strat : TESTER score :  38169
+joueur :  Superstition , strat : TFT score :  43100
+joueur :  pigeon , strat : ALL-D score :  34147
+joueur :  ds2 , strat : TESTER score :  38087
+joueur :  ZeroTwo2 , strat : TFT score :  43096
+joueur :  Quentin2 , strat : JOSS score :  35088
+joueur :  Lucas2 , strat : TESTER score :  38067
+joueur :  Yassine2 , strat : TFT score :  43173
+joueur :  ds12 , strat : TFT score :  43082
+joueur :  Jester2 , strat : TFT score :  43104
+joueur :  Superstition2 , strat : TFT score :  43223
+joueur :  pigeon2 , strat : ALL-D score :  34150
+joueur :  ds22 , strat : TFT score :  43088
+Classement :
+1   TFT : 43223
+2   TFT : 43173
+3   TFT : 43127
+4   TFT : 43104
+5   TFT : 43100
+6   TFT : 43096
+7   TFT : 43088
+8   TFT : 43082
+9   TESTER : 38169
+10   TESTER : 38091
+11   TESTER : 38087
+12   TESTER : 38067
+13   JOSS : 35088
+14   JOSS : 35043
+15   ALL-D : 34150
+16   ALL-D : 34147
+17   ALL-D : 34144
+18   ALL-D : 34141
+#########################################################################
+Debut du tournoi numero :  5
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  47086
+joueur :  Quentin , strat : JOSS score :  35557
+joueur :  Lucas , strat : TESTER score :  40079
+joueur :  Yassine , strat : TFT score :  47131
+joueur :  ds1 , strat : TFT score :  47184
+joueur :  Jester , strat : TESTER score :  40092
+joueur :  Superstition , strat : TFT score :  47208
+joueur :  pigeon , strat : TFT score :  47154
+joueur :  ds2 , strat : TESTER score :  40054
+joueur :  ZeroTwo2 , strat : TFT score :  47145
+joueur :  Quentin2 , strat : JOSS score :  35085
+joueur :  Lucas2 , strat : TESTER score :  40060
+joueur :  Yassine2 , strat : TFT score :  47195
+joueur :  ds12 , strat : TFT score :  47120
+joueur :  Jester2 , strat : TFT score :  47091
+joueur :  Superstition2 , strat : TFT score :  47145
+joueur :  pigeon2 , strat : TFT score :  47101
+joueur :  ds22 , strat : TFT score :  47116
+Classement :
+1   TFT : 47208
+2   TFT : 47195
+3   TFT : 47184
+4   TFT : 47154
+5   TFT : 47145
+6   TFT : 47145
+7   TFT : 47131
+8   TFT : 47120
+9   TFT : 47116
+10   TFT : 47101
+11   TFT : 47091
+12   TFT : 47086
+13   TESTER : 40092
+14   TESTER : 40079
+15   TESTER : 40060
+16   TESTER : 40054
+17   JOSS : 35557
+18   JOSS : 35085
+#########################################################################
+Debut du tournoi numero :  6
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  50000
+joueur :  Quentin , strat : TFT score :  50000
+joueur :  Lucas , strat : TESTER score :  42000
+joueur :  Yassine , strat : TFT score :  50000
+joueur :  ds1 , strat : TFT score :  50000
+joueur :  Jester , strat : TESTER score :  42000
+joueur :  Superstition , strat : TFT score :  50000
+joueur :  pigeon , strat : TFT score :  50000
+joueur :  ds2 , strat : TFT score :  50000
+joueur :  ZeroTwo2 , strat : TFT score :  50000
+joueur :  Quentin2 , strat : TFT score :  50000
+joueur :  Lucas2 , strat : TFT score :  50000
+joueur :  Yassine2 , strat : TFT score :  50000
+joueur :  ds12 , strat : TFT score :  50000
+joueur :  Jester2 , strat : TFT score :  50000
+joueur :  Superstition2 , strat : TFT score :  50000
+joueur :  pigeon2 , strat : TFT score :  50000
+joueur :  ds22 , strat : TFT score :  50000
+Classement :
+1   TFT : 50000
+2   TFT : 50000
+3   TFT : 50000
+4   TFT : 50000
+5   TFT : 50000
+6   TFT : 50000
+7   TFT : 50000
+8   TFT : 50000
+9   TFT : 50000
+10   TFT : 50000
+11   TFT : 50000
+12   TFT : 50000
+13   TFT : 50000
+14   TFT : 50000
+15   TFT : 50000
+16   TFT : 50000
+17   TESTER : 42000
+18   TESTER : 42000
+#########################################################################
+Debut du tournoi numero :  7
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  51000
+joueur :  Quentin , strat : TFT score :  51000
+joueur :  Lucas , strat : TFT score :  51000
+joueur :  Yassine , strat : TFT score :  51000
+joueur :  ds1 , strat : TFT score :  51000
+joueur :  Jester , strat : TFT score :  51000
+joueur :  Superstition , strat : TFT score :  51000
+joueur :  pigeon , strat : TFT score :  51000
+joueur :  ds2 , strat : TFT score :  51000
+joueur :  ZeroTwo2 , strat : TFT score :  51000
+joueur :  Quentin2 , strat : TFT score :  51000
+joueur :  Lucas2 , strat : TFT score :  51000
+joueur :  Yassine2 , strat : TFT score :  51000
+joueur :  ds12 , strat : TFT score :  51000
+joueur :  Jester2 , strat : TFT score :  51000
+joueur :  Superstition2 , strat : TFT score :  51000
+joueur :  pigeon2 , strat : TFT score :  51000
+joueur :  ds22 , strat : TFT score :  51000
+Classement :
+1   TFT : 51000
+2   TFT : 51000
+3   TFT : 51000
+4   TFT : 51000
+5   TFT : 51000
+6   TFT : 51000
+7   TFT : 51000
+8   TFT : 51000
+9   TFT : 51000
+10   TFT : 51000
+11   TFT : 51000
+12   TFT : 51000
+13   TFT : 51000
+14   TFT : 51000
+15   TFT : 51000
+16   TFT : 51000
+17   TFT : 51000
+18   TFT : 51000
+
+2eme fois avec 1 mutations mm regles que precedemment :
+#########################################################################
+Debut du tournoi numero :  0
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  41087
+joueur :  Quentin , strat : JOSS score :  40288
+joueur :  Lucas , strat : TESTER score :  40150
+joueur :  Yassine , strat : RANDOM score :  39207
+joueur :  ds1 , strat : ALL-D score :  52072
+joueur :  Jester , strat : FARCEUR score :  37340
+joueur :  Superstition , strat : PATTERN score :  39173
+joueur :  pigeon , strat : ALL-C score :  26310
+joueur :  ds2 , strat : ALL-D2 score :  52001
+joueur :  ZeroTwo2 , strat : TFT score :  41015
+joueur :  Quentin2 , strat : JOSS score :  40210
+joueur :  Lucas2 , strat : TESTER score :  40130
+joueur :  Yassine2 , strat : RANDOM score :  39347
+joueur :  ds12 , strat : ALL-D score :  52108
+joueur :  Jester2 , strat : FARCEUR score :  37431
+joueur :  Superstition2 , strat : PATTERN score :  39161
+joueur :  pigeon2 , strat : ALL-C score :  26352
+joueur :  ds22 , strat : ALL-D2 score :  51863
+Classement :
+1   ALL-D : 52108
+2   ALL-D : 52072
+3   ALL-D2 : 52001
+4   ALL-D2 : 51863
+5   TFT : 41087
+6   TFT : 41015
+7   JOSS : 40288
+8   JOSS : 40210
+9   TESTER : 40150
+10   TESTER : 40130
+11   RANDOM : 39347
+12   RANDOM : 39207
+13   PATTERN : 39173
+14   PATTERN : 39161
+15   FARCEUR : 37431
+16   FARCEUR : 37340
+17   ALL-C : 26352
+18   ALL-C : 26310
+#########################################################################
+Debut du tournoi numero :  1
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  40078
+joueur :  Quentin , strat : JOSS score :  39077
+joueur :  Lucas , strat : TESTER score :  39134
+joueur :  Yassine , strat : RANDOM score :  36309
+joueur :  ds1 , strat : ALL-D score :  49096
+joueur :  Jester , strat : FARCEUR score :  32296
+joueur :  Superstition , strat : PATTERN score :  36323
+joueur :  pigeon , strat : ALL-D score :  48928
+joueur :  ds2 , strat : ALL-D2 score :  49016
+joueur :  ZeroTwo2 , strat : TFT score :  40093
+joueur :  Quentin2 , strat : JOSS score :  39206
+joueur :  Lucas2 , strat : TESTER score :  39111
+joueur :  Yassine2 , strat : RANDOM score :  36019
+joueur :  ds12 , strat : ALL-D score :  49138
+joueur :  Jester2 , strat : FARCEUR score :  32483
+joueur :  Superstition2 , strat : PATTERN score :  36263
+joueur :  pigeon2 , strat : ALL-C score :  23415
+joueur :  ds22 , strat : ALL-D2 score :  48950
+Classement :
+1   ALL-D : 49138
+2   ALL-D : 49096
+3   ALL-D2 : 49016
+4   ALL-D2 : 48950
+5   ALL-D : 48928
+6   TFT : 40093
+7   TFT : 40078
+8   JOSS : 39206
+9   TESTER : 39134
+10   TESTER : 39111
+11   JOSS : 39077
+12   PATTERN : 36323
+13   RANDOM : 36309
+14   PATTERN : 36263
+15   RANDOM : 36019
+16   FARCEUR : 32483
+17   FARCEUR : 32296
+18   ALL-C : 23415
+#########################################################################
+Debut du tournoi numero :  2
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  39064
+joueur :  Quentin , strat : JOSS score :  37870
+joueur :  Lucas , strat : TESTER score :  38097
+joueur :  Yassine , strat : RANDOM score :  33357
+joueur :  ds1 , strat : ALL-D score :  46156
+joueur :  Jester , strat : FARCEUR score :  27367
+joueur :  Superstition , strat : PATTERN score :  33299
+joueur :  pigeon , strat : ALL-D score :  46054
+joueur :  ds2 , strat : ALL-D2 score :  45989
+joueur :  ZeroTwo2 , strat : TFT score :  39024
+joueur :  Quentin2 , strat : JOSS score :  37913
+joueur :  Lucas2 , strat : TESTER score :  38108
+joueur :  Yassine2 , strat : RANDOM score :  33040
+joueur :  ds12 , strat : ALL-D score :  46090
+joueur :  Jester2 , strat : FARCEUR score :  27371
+joueur :  Superstition2 , strat : PATTERN score :  33236
+joueur :  pigeon2 , strat : ALL-D score :  45961
+joueur :  ds22 , strat : ALL-D2 score :  45872
+Classement :
+1   ALL-D : 46156
+2   ALL-D : 46090
+3   ALL-D : 46054
+4   ALL-D2 : 45989
+5   ALL-D : 45961
+6   ALL-D2 : 45872
+7   TFT : 39064
+8   TFT : 39024
+9   TESTER : 38108
+10   TESTER : 38097
+11   JOSS : 37913
+12   JOSS : 37870
+13   RANDOM : 33357
+14   PATTERN : 33299
+15   PATTERN : 33236
+16   RANDOM : 33040
+17   FARCEUR : 27371
+18   FARCEUR : 27367
+#########################################################################
+Debut du tournoi numero :  3
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  38502
+joueur :  Quentin , strat : JOSS score :  37206
+joueur :  Lucas , strat : TESTER score :  37626
+joueur :  Yassine , strat : RANDOM score :  31782
+joueur :  ds1 , strat : ALL-D score :  43057
+joueur :  Jester , strat : ALL-D score :  43087
+joueur :  Superstition , strat : PATTERN score :  31844
+joueur :  pigeon , strat : ALL-D score :  43027
+joueur :  ds2 , strat : ALL-D2 score :  42899
+joueur :  ZeroTwo2 , strat : TFT score :  38599
+joueur :  Quentin2 , strat : JOSS score :  37330
+joueur :  Lucas2 , strat : TESTER score :  37593
+joueur :  Yassine2 , strat : RANDOM score :  31581
+joueur :  ds12 , strat : ALL-D score :  42982
+joueur :  Jester2 , strat : FARCEUR score :  24938
+joueur :  Superstition2 , strat : PATTERN score :  31826
+joueur :  pigeon2 , strat : ALL-D score :  42988
+joueur :  ds22 , strat : ALL-D2 score :  43148
+Classement :
+1   ALL-D2 : 43148
+2   ALL-D : 43087
+3   ALL-D : 43057
+4   ALL-D : 43027
+5   ALL-D : 42988
+6   ALL-D : 42982
+7   ALL-D2 : 42899
+8   TFT : 38599
+9   TFT : 38502
+10   TESTER : 37626
+11   TESTER : 37593
+12   JOSS : 37330
+13   JOSS : 37206
+14   PATTERN : 31844
+15   PATTERN : 31826
+16   RANDOM : 31782
+17   RANDOM : 31581
+18   FARCEUR : 24938
+#########################################################################
+Debut du tournoi numero :  4
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  38041
+joueur :  Quentin , strat : JOSS score :  36529
+joueur :  Lucas , strat : TESTER score :  37118
+joueur :  Yassine , strat : RANDOM score :  30250
+joueur :  ds1 , strat : ALL-D score :  40144
+joueur :  Jester , strat : ALL-D score :  40105
+joueur :  Superstition , strat : PATTERN score :  30410
+joueur :  pigeon , strat : ALL-D score :  40183
+joueur :  ds2 , strat : ALL-D2 score :  39941
+joueur :  ZeroTwo2 , strat : TFT score :  37989
+joueur :  Quentin2 , strat : JOSS score :  36683
+joueur :  Lucas2 , strat : TESTER score :  37108
+joueur :  Yassine2 , strat : RANDOM score :  30242
+joueur :  ds12 , strat : ALL-D score :  40111
+joueur :  Jester2 , strat : ALL-D2 score :  39971
+joueur :  Superstition2 , strat : PATTERN score :  30227
+joueur :  pigeon2 , strat : ALL-D score :  40078
+joueur :  ds22 , strat : ALL-D2 score :  40055
+Classement :
+1   ALL-D : 40183
+2   ALL-D : 40144
+3   ALL-D : 40111
+4   ALL-D : 40105
+5   ALL-D : 40078
+6   ALL-D2 : 40055
+7   ALL-D2 : 39971
+8   ALL-D2 : 39941
+9   TFT : 38041
+10   TFT : 37989
+11   TESTER : 37118
+12   TESTER : 37108
+13   JOSS : 36683
+14   JOSS : 36529
+15   PATTERN : 30410
+16   RANDOM : 30250
+17   RANDOM : 30242
+18   PATTERN : 30227
+#########################################################################
+Debut du tournoi numero :  5
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  37594
+joueur :  Quentin , strat : JOSS score :  36056
+joueur :  Lucas , strat : TESTER score :  36634
+joueur :  Yassine , strat : RANDOM score :  28786
+joueur :  ds1 , strat : ALL-D score :  38614
+joueur :  Jester , strat : ALL-D score :  38677
+joueur :  Superstition , strat : PATTERN score :  28682
+joueur :  pigeon , strat : ALL-D score :  38608
+joueur :  ds2 , strat : ALL-D2 score :  38498
+joueur :  ZeroTwo2 , strat : TFT score :  37571
+joueur :  Quentin2 , strat : JOSS score :  36192
+joueur :  Lucas2 , strat : TESTER score :  36621
+joueur :  Yassine2 , strat : RANDOM score :  28793
+joueur :  ds12 , strat : ALL-D score :  38542
+joueur :  Jester2 , strat : ALL-D2 score :  38432
+joueur :  Superstition2 , strat : ALL-D score :  38578
+joueur :  pigeon2 , strat : ALL-D score :  38698
+joueur :  ds22 , strat : ALL-D2 score :  38510
+Classement :
+1   ALL-D : 38698
+2   ALL-D : 38677
+3   ALL-D : 38614
+4   ALL-D : 38608
+5   ALL-D : 38578
+6   ALL-D : 38542
+7   ALL-D2 : 38510
+8   ALL-D2 : 38498
+9   ALL-D2 : 38432
+10   TFT : 37594
+11   TFT : 37571
+12   TESTER : 36634
+13   TESTER : 36621
+14   JOSS : 36192
+15   JOSS : 36056
+16   RANDOM : 28793
+17   RANDOM : 28786
+18   PATTERN : 28682
+#########################################################################
+Debut du tournoi numero :  6
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  37085
+joueur :  Quentin , strat : JOSS score :  35397
+joueur :  Lucas , strat : TESTER score :  36075
+joueur :  Yassine , strat : RANDOM score :  27463
+joueur :  ds1 , strat : ALL-D score :  37087
+joueur :  Jester , strat : ALL-D score :  37201
+joueur :  Superstition , strat : ALL-D score :  37108
+joueur :  pigeon , strat : ALL-D score :  36946
+joueur :  ds2 , strat : ALL-D2 score :  36932
+joueur :  ZeroTwo2 , strat : TFT score :  37085
+joueur :  Quentin2 , strat : JOSS score :  35447
+joueur :  Lucas2 , strat : TESTER score :  36080
+joueur :  Yassine2 , strat : RANDOM score :  27341
+joueur :  ds12 , strat : ALL-D score :  37042
+joueur :  Jester2 , strat : ALL-D2 score :  36995
+joueur :  Superstition2 , strat : ALL-D score :  37003
+joueur :  pigeon2 , strat : ALL-D score :  37033
+joueur :  ds22 , strat : ALL-D2 score :  36968
+Classement :
+1   ALL-D : 37201
+2   ALL-D : 37108
+3   ALL-D : 37087
+4   TFT : 37085
+5   TFT : 37085
+6   ALL-D : 37042
+7   ALL-D : 37033
+8   ALL-D : 37003
+9   ALL-D2 : 36995
+10   ALL-D2 : 36968
+11   ALL-D : 36946
+12   ALL-D2 : 36932
+13   TESTER : 36080
+14   TESTER : 36075
+15   JOSS : 35447
+16   JOSS : 35397
+17   RANDOM : 27463
+18   RANDOM : 27341
+#########################################################################
+Debut du tournoi numero :  7
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  36563
+joueur :  Quentin , strat : JOSS score :  34853
+joueur :  Lucas , strat : TESTER score :  35590
+joueur :  Yassine , strat : RANDOM score :  25722
+joueur :  ds1 , strat : ALL-D score :  35590
+joueur :  Jester , strat : ALL-D score :  35653
+joueur :  Superstition , strat : ALL-D score :  35608
+joueur :  pigeon , strat : ALL-D score :  35671
+joueur :  ds2 , strat : ALL-D2 score :  35459
+joueur :  ZeroTwo2 , strat : TFT score :  36499
+joueur :  Quentin2 , strat : JOSS score :  34809
+joueur :  Lucas2 , strat : TESTER score :  35619
+joueur :  Yassine2 , strat : ALL-D score :  35614
+joueur :  ds12 , strat : ALL-D score :  35569
+joueur :  Jester2 , strat : ALL-D2 score :  35525
+joueur :  Superstition2 , strat : ALL-D score :  35641
+joueur :  pigeon2 , strat : ALL-D score :  35611
+joueur :  ds22 , strat : ALL-D2 score :  35528
+Classement :
+1   TFT : 36563
+2   TFT : 36499
+3   ALL-D : 35671
+4   ALL-D : 35653
+5   ALL-D : 35641
+6   TESTER : 35619
+7   ALL-D : 35614
+8   ALL-D : 35611
+9   ALL-D : 35608
+10   TESTER : 35590
+11   ALL-D : 35590
+12   ALL-D : 35569
+13   ALL-D2 : 35528
+14   ALL-D2 : 35525
+15   ALL-D2 : 35459
+16   JOSS : 34853
+17   JOSS : 34809
+18   RANDOM : 25722
+#########################################################################
+Debut du tournoi numero :  8
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  37028
+joueur :  Quentin , strat : JOSS score :  34387
+joueur :  Lucas , strat : TESTER score :  35589
+joueur :  Yassine , strat : TFT score :  37137
+joueur :  ds1 , strat : ALL-D score :  34117
+joueur :  Jester , strat : ALL-D score :  34117
+joueur :  Superstition , strat : ALL-D score :  34117
+joueur :  pigeon , strat : ALL-D score :  34114
+joueur :  ds2 , strat : ALL-D2 score :  34040
+joueur :  ZeroTwo2 , strat : TFT score :  37086
+joueur :  Quentin2 , strat : JOSS score :  34423
+joueur :  Lucas2 , strat : TESTER score :  35643
+joueur :  Yassine2 , strat : ALL-D score :  34117
+joueur :  ds12 , strat : ALL-D score :  34117
+joueur :  Jester2 , strat : ALL-D2 score :  34037
+joueur :  Superstition2 , strat : ALL-D score :  34117
+joueur :  pigeon2 , strat : ALL-D score :  34108
+joueur :  ds22 , strat : ALL-D2 score :  34034
+Classement :
+1   TFT : 37137
+2   TFT : 37086
+3   TFT : 37028
+4   TESTER : 35643
+5   TESTER : 35589
+6   JOSS : 34423
+7   JOSS : 34387
+8   ALL-D : 34117
+9   ALL-D : 34117
+10   ALL-D : 34117
+11   ALL-D : 34117
+12   ALL-D : 34117
+13   ALL-D : 34117
+14   ALL-D : 34114
+15   ALL-D : 34108
+16   ALL-D2 : 34040
+17   ALL-D2 : 34037
+18   ALL-D2 : 34034
+#########################################################################
+Debut du tournoi numero :  9
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  38005
+joueur :  Quentin , strat : JOSS score :  34395
+joueur :  Lucas , strat : TESTER score :  36093
+joueur :  Yassine , strat : TFT score :  38031
+joueur :  ds1 , strat : ALL-D score :  34120
+joueur :  Jester , strat : ALL-D score :  34117
+joueur :  Superstition , strat : ALL-D score :  34120
+joueur :  pigeon , strat : ALL-D score :  34117
+joueur :  ds2 , strat : ALL-D2 score :  34052
+joueur :  ZeroTwo2 , strat : TFT score :  38015
+joueur :  Quentin2 , strat : JOSS score :  34510
+joueur :  Lucas2 , strat : TESTER score :  36091
+joueur :  Yassine2 , strat : ALL-D score :  34114
+joueur :  ds12 , strat : ALL-D score :  34117
+joueur :  Jester2 , strat : ALL-D2 score :  34046
+joueur :  Superstition2 , strat : ALL-D score :  34117
+joueur :  pigeon2 , strat : ALL-D score :  34117
+joueur :  ds22 , strat : TFT score :  38135
+Classement :
+1   TFT : 38135
+2   TFT : 38031
+3   TFT : 38015
+4   TFT : 38005
+5   TESTER : 36093
+6   TESTER : 36091
+7   JOSS : 34510
+8   JOSS : 34395
+9   ALL-D : 34120
+10   ALL-D : 34120
+11   ALL-D : 34117
+12   ALL-D : 34117
+13   ALL-D : 34117
+14   ALL-D : 34117
+15   ALL-D : 34117
+16   ALL-D : 34114
+17   ALL-D2 : 34052
+18   ALL-D2 : 34046
+#########################################################################
+Debut du tournoi numero :  10
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  39128
+joueur :  Quentin , strat : JOSS score :  34510
+joueur :  Lucas , strat : TESTER score :  36579
+joueur :  Yassine , strat : TFT score :  39093
+joueur :  ds1 , strat : ALL-D score :  34117
+joueur :  Jester , strat : ALL-D score :  34120
+joueur :  Superstition , strat : ALL-D score :  34114
+joueur :  pigeon , strat : ALL-D score :  34111
+joueur :  ds2 , strat : ALL-D2 score :  34064
+joueur :  ZeroTwo2 , strat : TFT score :  39019
+joueur :  Quentin2 , strat : JOSS score :  34545
+joueur :  Lucas2 , strat : TESTER score :  36550
+joueur :  Yassine2 , strat : ALL-D score :  34120
+joueur :  ds12 , strat : ALL-D score :  34114
+joueur :  Jester2 , strat : TFT score :  39051
+joueur :  Superstition2 , strat : ALL-D score :  34117
+joueur :  pigeon2 , strat : ALL-D score :  34120
+joueur :  ds22 , strat : TFT score :  39045
+Classement :
+1   TFT : 39128
+2   TFT : 39093
+3   TFT : 39051
+4   TFT : 39045
+5   TFT : 39019
+6   TESTER : 36579
+7   TESTER : 36550
+8   JOSS : 34545
+9   JOSS : 34510
+10   ALL-D : 34120
+11   ALL-D : 34120
+12   ALL-D : 34120
+13   ALL-D : 34117
+14   ALL-D : 34117
+15   ALL-D : 34114
+16   ALL-D : 34114
+17   ALL-D : 34111
+18   ALL-D2 : 34064
+#########################################################################
+Debut du tournoi numero :  11
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  40062
+joueur :  Quentin , strat : JOSS score :  34734
+joueur :  Lucas , strat : TESTER score :  37089
+joueur :  Yassine , strat : TFT score :  40072
+joueur :  ds1 , strat : ALL-D score :  34120
+joueur :  Jester , strat : ALL-D score :  34117
+joueur :  Superstition , strat : ALL-D score :  34117
+joueur :  pigeon , strat : ALL-D score :  34120
+joueur :  ds2 , strat : TFT score :  40073
+joueur :  ZeroTwo2 , strat : TFT score :  40125
+joueur :  Quentin2 , strat : JOSS score :  34653
+joueur :  Lucas2 , strat : TESTER score :  37118
+joueur :  Yassine2 , strat : ALL-D score :  34120
+joueur :  ds12 , strat : ALL-D score :  34111
+joueur :  Jester2 , strat : TFT score :  40072
+joueur :  Superstition2 , strat : ALL-D score :  34114
+joueur :  pigeon2 , strat : ALL-D score :  34114
+joueur :  ds22 , strat : TFT score :  40081
+Classement :
+1   TFT : 40125
+2   TFT : 40081
+3   TFT : 40073
+4   TFT : 40072
+5   TFT : 40072
+6   TFT : 40062
+7   TESTER : 37118
+8   TESTER : 37089
+9   JOSS : 34734
+10   JOSS : 34653
+11   ALL-D : 34120
+12   ALL-D : 34120
+13   ALL-D : 34120
+14   ALL-D : 34117
+15   ALL-D : 34117
+16   ALL-D : 34114
+17   ALL-D : 34114
+18   ALL-D : 34111
+#########################################################################
+Debut du tournoi numero :  12
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  41089
+joueur :  Quentin , strat : JOSS score :  34787
+joueur :  Lucas , strat : TESTER score :  37603
+joueur :  Yassine , strat : TFT score :  41091
+joueur :  ds1 , strat : ALL-D score :  34135
+joueur :  Jester , strat : ALL-D score :  34132
+joueur :  Superstition , strat : ALL-D score :  34135
+joueur :  pigeon , strat : ALL-D score :  34132
+joueur :  ds2 , strat : TFT score :  41051
+joueur :  ZeroTwo2 , strat : TFT score :  41127
+joueur :  Quentin2 , strat : JOSS score :  34814
+joueur :  Lucas2 , strat : TESTER score :  37594
+joueur :  Yassine2 , strat : ALL-D score :  34129
+joueur :  ds12 , strat : TFT score :  41003
+joueur :  Jester2 , strat : TFT score :  41047
+joueur :  Superstition2 , strat : ALL-D score :  34129
+joueur :  pigeon2 , strat : ALL-D score :  34132
+joueur :  ds22 , strat : TFT score :  41152
+Classement :
+1   TFT : 41152
+2   TFT : 41127
+3   TFT : 41091
+4   TFT : 41089
+5   TFT : 41051
+6   TFT : 41047
+7   TFT : 41003
+8   TESTER : 37603
+9   TESTER : 37594
+10   JOSS : 34814
+11   JOSS : 34787
+12   ALL-D : 34135
+13   ALL-D : 34135
+14   ALL-D : 34132
+15   ALL-D : 34132
+16   ALL-D : 34132
+17   ALL-D : 34129
+18   ALL-D : 34129
+#########################################################################
+Debut du tournoi numero :  13
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  42127
+joueur :  Quentin , strat : JOSS score :  35168
+joueur :  Lucas , strat : TESTER score :  38109
+joueur :  Yassine , strat : TFT score :  42184
+joueur :  ds1 , strat : ALL-D score :  34144
+joueur :  Jester , strat : ALL-D score :  34147
+joueur :  Superstition , strat : ALL-D score :  34150
+joueur :  pigeon , strat : ALL-D score :  34147
+joueur :  ds2 , strat : TFT score :  42102
+joueur :  ZeroTwo2 , strat : TFT score :  42114
+joueur :  Quentin2 , strat : JOSS score :  34929
+joueur :  Lucas2 , strat : TESTER score :  38059
+joueur :  Yassine2 , strat : ALL-D score :  34150
+joueur :  ds12 , strat : TFT score :  42109
+joueur :  Jester2 , strat : TFT score :  42150
+joueur :  Superstition2 , strat : TFT score :  42143
+joueur :  pigeon2 , strat : ALL-D score :  34150
+joueur :  ds22 , strat : TFT score :  42171
+Classement :
+1   TFT : 42184
+2   TFT : 42171
+3   TFT : 42150
+4   TFT : 42143
+5   TFT : 42127
+6   TFT : 42114
+7   TFT : 42109
+8   TFT : 42102
+9   TESTER : 38109
+10   TESTER : 38059
+11   JOSS : 35168
+12   JOSS : 34929
+13   ALL-D : 34150
+14   ALL-D : 34150
+15   ALL-D : 34150
+16   ALL-D : 34147
+17   ALL-D : 34147
+18   ALL-D : 34144
+#########################################################################
+Debut du tournoi numero :  14
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  43100
+joueur :  Quentin , strat : JOSS score :  35043
+joueur :  Lucas , strat : TESTER score :  38642
+joueur :  Yassine , strat : TFT score :  43124
+joueur :  ds1 , strat : TFT score :  43180
+joueur :  Jester , strat : ALL-D score :  34162
+joueur :  Superstition , strat : ALL-D score :  34165
+joueur :  pigeon , strat : ALL-D score :  34165
+joueur :  ds2 , strat : TFT score :  43115
+joueur :  ZeroTwo2 , strat : TFT score :  43024
+joueur :  Quentin2 , strat : JOSS score :  35090
+joueur :  Lucas2 , strat : TESTER score :  38560
+joueur :  Yassine2 , strat : ALL-D score :  34162
+joueur :  ds12 , strat : TFT score :  43107
+joueur :  Jester2 , strat : TFT score :  43110
+joueur :  Superstition2 , strat : TFT score :  43105
+joueur :  pigeon2 , strat : ALL-D score :  34165
+joueur :  ds22 , strat : TFT score :  43172
+Classement :
+1   TFT : 43180
+2   TFT : 43172
+3   TFT : 43124
+4   TFT : 43115
+5   TFT : 43110
+6   TFT : 43107
+7   TFT : 43105
+8   TFT : 43100
+9   TFT : 43024
+10   TESTER : 38642
+11   TESTER : 38560
+12   JOSS : 35090
+13   JOSS : 35043
+14   ALL-D : 34165
+15   ALL-D : 34165
+16   ALL-D : 34165
+17   ALL-D : 34162
+18   ALL-D : 34162
+#########################################################################
+Debut du tournoi numero :  15
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  44065
+joueur :  Quentin , strat : JOSS score :  35077
+joueur :  Lucas , strat : TESTER score :  39088
+joueur :  Yassine , strat : TFT score :  44117
+joueur :  ds1 , strat : TFT score :  44140
+joueur :  Jester , strat : TFT score :  44105
+joueur :  Superstition , strat : ALL-D score :  34180
+joueur :  pigeon , strat : ALL-D score :  34180
+joueur :  ds2 , strat : TFT score :  44195
+joueur :  ZeroTwo2 , strat : TFT score :  44056
+joueur :  Quentin2 , strat : JOSS score :  35098
+joueur :  Lucas2 , strat : TESTER score :  39050
+joueur :  Yassine2 , strat : ALL-D score :  34177
+joueur :  ds12 , strat : TFT score :  44066
+joueur :  Jester2 , strat : TFT score :  44148
+joueur :  Superstition2 , strat : TFT score :  44139
+joueur :  pigeon2 , strat : ALL-D score :  34177
+joueur :  ds22 , strat : TFT score :  44105
+Classement :
+1   TFT : 44195
+2   TFT : 44148
+3   TFT : 44140
+4   TFT : 44139
+5   TFT : 44117
+6   TFT : 44105
+7   TFT : 44105
+8   TFT : 44066
+9   TFT : 44065
+10   TFT : 44056
+11   TESTER : 39088
+12   TESTER : 39050
+13   JOSS : 35098
+14   JOSS : 35077
+15   ALL-D : 34180
+16   ALL-D : 34180
+17   ALL-D : 34177
+18   ALL-D : 34177
+#########################################################################
+Debut du tournoi numero :  16
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  45182
+joueur :  Quentin , strat : JOSS score :  35338
+joueur :  Lucas , strat : TESTER score :  39589
+joueur :  Yassine , strat : TFT score :  45071
+joueur :  ds1 , strat : TFT score :  45122
+joueur :  Jester , strat : TFT score :  45087
+joueur :  Superstition , strat : ALL-D score :  34189
+joueur :  pigeon , strat : ALL-D score :  34189
+joueur :  ds2 , strat : TFT score :  45129
+joueur :  ZeroTwo2 , strat : TFT score :  45284
+joueur :  Quentin2 , strat : JOSS score :  35286
+joueur :  Lucas2 , strat : TESTER score :  39560
+joueur :  Yassine2 , strat : TFT score :  45177
+joueur :  ds12 , strat : TFT score :  45123
+joueur :  Jester2 , strat : TFT score :  45128
+joueur :  Superstition2 , strat : TFT score :  45122
+joueur :  pigeon2 , strat : ALL-D score :  34189
+joueur :  ds22 , strat : TFT score :  45145
+Classement :
+1   TFT : 45284
+2   TFT : 45182
+3   TFT : 45177
+4   TFT : 45145
+5   TFT : 45129
+6   TFT : 45128
+7   TFT : 45123
+8   TFT : 45122
+9   TFT : 45122
+10   TFT : 45087
+11   TFT : 45071
+12   TESTER : 39589
+13   TESTER : 39560
+14   JOSS : 35338
+15   JOSS : 35286
+16   ALL-D : 34189
+17   ALL-D : 34189
+18   ALL-D : 34189
+#########################################################################
+Debut du tournoi numero :  17
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  46143
+joueur :  Quentin , strat : JOSS score :  35521
+joueur :  Lucas , strat : TESTER score :  40129
+joueur :  Yassine , strat : TFT score :  46169
+joueur :  ds1 , strat : TFT score :  46245
+joueur :  Jester , strat : TFT score :  46082
+joueur :  Superstition , strat : TFT score :  46210
+joueur :  pigeon , strat : ALL-D score :  34207
+joueur :  ds2 , strat : TFT score :  46099
+joueur :  ZeroTwo2 , strat : TFT score :  46187
+joueur :  Quentin2 , strat : JOSS score :  35505
+joueur :  Lucas2 , strat : TESTER score :  40128
+joueur :  Yassine2 , strat : TFT score :  46108
+joueur :  ds12 , strat : TFT score :  46155
+joueur :  Jester2 , strat : TFT score :  46146
+joueur :  Superstition2 , strat : TFT score :  46195
+joueur :  pigeon2 , strat : ALL-D score :  34207
+joueur :  ds22 , strat : TFT score :  46142
+Classement :
+1   TFT : 46245
+2   TFT : 46210
+3   TFT : 46195
+4   TFT : 46187
+5   TFT : 46169
+6   TFT : 46155
+7   TFT : 46146
+8   TFT : 46143
+9   TFT : 46142
+10   TFT : 46108
+11   TFT : 46099
+12   TFT : 46082
+13   TESTER : 40129
+14   TESTER : 40128
+15   JOSS : 35521
+16   JOSS : 35505
+17   ALL-D : 34207
+18   ALL-D : 34207
+#########################################################################
+Debut du tournoi numero :  18
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  47137
+joueur :  Quentin , strat : JOSS score :  35336
+joueur :  Lucas , strat : TESTER score :  40626
+joueur :  Yassine , strat : TFT score :  47151
+joueur :  ds1 , strat : TFT score :  47174
+joueur :  Jester , strat : TFT score :  47079
+joueur :  Superstition , strat : TFT score :  47105
+joueur :  pigeon , strat : TFT score :  47100
+joueur :  ds2 , strat : TFT score :  47199
+joueur :  ZeroTwo2 , strat : TFT score :  47209
+joueur :  Quentin2 , strat : JOSS score :  35565
+joueur :  Lucas2 , strat : TESTER score :  40602
+joueur :  Yassine2 , strat : TFT score :  47214
+joueur :  ds12 , strat : TFT score :  47118
+joueur :  Jester2 , strat : TFT score :  47107
+joueur :  Superstition2 , strat : TFT score :  47130
+joueur :  pigeon2 , strat : ALL-D score :  34225
+joueur :  ds22 , strat : TFT score :  47137
+Classement :
+1   TFT : 47214
+2   TFT : 47209
+3   TFT : 47199
+4   TFT : 47174
+5   TFT : 47151
+6   TFT : 47137
+7   TFT : 47137
+8   TFT : 47130
+9   TFT : 47118
+10   TFT : 47107
+11   TFT : 47105
+12   TFT : 47100
+13   TFT : 47079
+14   TESTER : 40626
+15   TESTER : 40602
+16   JOSS : 35565
+17   JOSS : 35336
+18   ALL-D : 34225
+#########################################################################
+Debut du tournoi numero :  19
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  48176
+joueur :  Quentin , strat : JOSS score :  35561
+joueur :  Lucas , strat : TESTER score :  41177
+joueur :  Yassine , strat : TFT score :  48172
+joueur :  ds1 , strat : TFT score :  48161
+joueur :  Jester , strat : TFT score :  48115
+joueur :  Superstition , strat : TFT score :  48176
+joueur :  pigeon , strat : TFT score :  48205
+joueur :  ds2 , strat : TFT score :  48183
+joueur :  ZeroTwo2 , strat : TFT score :  48097
+joueur :  Quentin2 , strat : JOSS score :  35615
+joueur :  Lucas2 , strat : TESTER score :  41120
+joueur :  Yassine2 , strat : TFT score :  48134
+joueur :  ds12 , strat : TFT score :  48088
+joueur :  Jester2 , strat : TFT score :  48186
+joueur :  Superstition2 , strat : TFT score :  48111
+joueur :  pigeon2 , strat : TFT score :  48181
+joueur :  ds22 , strat : TFT score :  48097
+Classement :
+1   TFT : 48205
+2   TFT : 48186
+3   TFT : 48183
+4   TFT : 48181
+5   TFT : 48176
+6   TFT : 48176
+7   TFT : 48172
+8   TFT : 48161
+9   TFT : 48134
+10   TFT : 48115
+11   TFT : 48111
+12   TFT : 48097
+13   TFT : 48097
+14   TFT : 48088
+15   TESTER : 41177
+16   TESTER : 41120
+17   JOSS : 35615
+18   JOSS : 35561
+#########################################################################
+Debut du tournoi numero :  20
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  49125
+joueur :  Quentin , strat : TFT score :  49124
+joueur :  Lucas , strat : TESTER score :  41521
+joueur :  Yassine , strat : TFT score :  49107
+joueur :  ds1 , strat : TFT score :  49059
+joueur :  Jester , strat : TFT score :  49061
+joueur :  Superstition , strat : TFT score :  49093
+joueur :  pigeon , strat : TFT score :  49116
+joueur :  ds2 , strat : TFT score :  49035
+joueur :  ZeroTwo2 , strat : TFT score :  49069
+joueur :  Quentin2 , strat : JOSS score :  35648
+joueur :  Lucas2 , strat : TESTER score :  41538
+joueur :  Yassine2 , strat : TFT score :  49085
+joueur :  ds12 , strat : TFT score :  49101
+joueur :  Jester2 , strat : TFT score :  49061
+joueur :  Superstition2 , strat : TFT score :  49050
+joueur :  pigeon2 , strat : TFT score :  49042
+joueur :  ds22 , strat : TFT score :  49086
+Classement :
+1   TFT : 49125
+2   TFT : 49124
+3   TFT : 49116
+4   TFT : 49107
+5   TFT : 49101
+6   TFT : 49093
+7   TFT : 49086
+8   TFT : 49085
+9   TFT : 49069
+10   TFT : 49061
+11   TFT : 49061
+12   TFT : 49059
+13   TFT : 49050
+14   TFT : 49042
+15   TFT : 49035
+16   TESTER : 41538
+17   TESTER : 41521
+18   JOSS : 35648
+#########################################################################
+Debut du tournoi numero :  21
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  50000
+joueur :  Quentin , strat : TFT score :  50000
+joueur :  Lucas , strat : TESTER score :  42000
+joueur :  Yassine , strat : TFT score :  50000
+joueur :  ds1 , strat : TFT score :  50000
+joueur :  Jester , strat : TFT score :  50000
+joueur :  Superstition , strat : TFT score :  50000
+joueur :  pigeon , strat : TFT score :  50000
+joueur :  ds2 , strat : TFT score :  50000
+joueur :  ZeroTwo2 , strat : TFT score :  50000
+joueur :  Quentin2 , strat : TFT score :  50000
+joueur :  Lucas2 , strat : TESTER score :  42000
+joueur :  Yassine2 , strat : TFT score :  50000
+joueur :  ds12 , strat : TFT score :  50000
+joueur :  Jester2 , strat : TFT score :  50000
+joueur :  Superstition2 , strat : TFT score :  50000
+joueur :  pigeon2 , strat : TFT score :  50000
+joueur :  ds22 , strat : TFT score :  50000
+Classement :
+1   TFT : 50000
+2   TFT : 50000
+3   TFT : 50000
+4   TFT : 50000
+5   TFT : 50000
+6   TFT : 50000
+7   TFT : 50000
+8   TFT : 50000
+9   TFT : 50000
+10   TFT : 50000
+11   TFT : 50000
+12   TFT : 50000
+13   TFT : 50000
+14   TFT : 50000
+15   TFT : 50000
+16   TFT : 50000
+17   TESTER : 42000
+18   TESTER : 42000
+#########################################################################
+Debut du tournoi numero :  22
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  50500
+joueur :  Quentin , strat : TFT score :  50500
+joueur :  Lucas , strat : TESTER score :  42500
+joueur :  Yassine , strat : TFT score :  50500
+joueur :  ds1 , strat : TFT score :  50500
+joueur :  Jester , strat : TFT score :  50500
+joueur :  Superstition , strat : TFT score :  50500
+joueur :  pigeon , strat : TFT score :  50500
+joueur :  ds2 , strat : TFT score :  50500
+joueur :  ZeroTwo2 , strat : TFT score :  50500
+joueur :  Quentin2 , strat : TFT score :  50500
+joueur :  Lucas2 , strat : TFT score :  50500
+joueur :  Yassine2 , strat : TFT score :  50500
+joueur :  ds12 , strat : TFT score :  50500
+joueur :  Jester2 , strat : TFT score :  50500
+joueur :  Superstition2 , strat : TFT score :  50500
+joueur :  pigeon2 , strat : TFT score :  50500
+joueur :  ds22 , strat : TFT score :  50500
+Classement :
+1   TFT : 50500
+2   TFT : 50500
+3   TFT : 50500
+4   TFT : 50500
+5   TFT : 50500
+6   TFT : 50500
+7   TFT : 50500
+8   TFT : 50500
+9   TFT : 50500
+10   TFT : 50500
+11   TFT : 50500
+12   TFT : 50500
+13   TFT : 50500
+14   TFT : 50500
+15   TFT : 50500
+16   TFT : 50500
+17   TFT : 50500
+18   TESTER : 42500
+#########################################################################
+Debut du tournoi numero :  23
+#########################################################################
+Resume score :
+joueur :  ZeroTwo , strat : TFT score :  51000
+joueur :  Quentin , strat : TFT score :  51000
+joueur :  Lucas , strat : TFT score :  51000
+joueur :  Yassine , strat : TFT score :  51000
+joueur :  ds1 , strat : TFT score :  51000
+joueur :  Jester , strat : TFT score :  51000
+joueur :  Superstition , strat : TFT score :  51000
+joueur :  pigeon , strat : TFT score :  51000
+joueur :  ds2 , strat : TFT score :  51000
+joueur :  ZeroTwo2 , strat : TFT score :  51000
+joueur :  Quentin2 , strat : TFT score :  51000
+joueur :  Lucas2 , strat : TFT score :  51000
+joueur :  Yassine2 , strat : TFT score :  51000
+joueur :  ds12 , strat : TFT score :  51000
+joueur :  Jester2 , strat : TFT score :  51000
+joueur :  Superstition2 , strat : TFT score :  51000
+joueur :  pigeon2 , strat : TFT score :  51000
+joueur :  ds22 , strat : TFT score :  51000
+Classement :
+1   TFT : 51000
+2   TFT : 51000
+3   TFT : 51000
+4   TFT : 51000
+5   TFT : 51000
+6   TFT : 51000
+7   TFT : 51000
+8   TFT : 51000
+9   TFT : 51000
+10   TFT : 51000
+11   TFT : 51000
+12   TFT : 51000
+13   TFT : 51000
+14   TFT : 51000
+15   TFT : 51000
+16   TFT : 51000
+17   TFT : 51000
+18   TFT : 51000

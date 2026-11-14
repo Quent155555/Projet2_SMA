@@ -20,8 +20,12 @@ class Joueur :
     def reinitialiser(self) :
         self.choix = None
         self.historique_adverse = []
-        self.TFT = False
+        self.mode_TFTTFT = False
         self.historique_choix = []
+
+    def reinitialise_points(self) :
+        self.score = 0
+        self.reinitialiser()
 
     def decision(self) :
         #Calcul avec une stratégie
